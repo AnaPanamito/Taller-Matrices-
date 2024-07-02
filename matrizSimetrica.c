@@ -33,7 +33,7 @@ void imprimirMatriz(int n, int matriz[n][n]) {
 }
 
 int main() {
-    srand(time(0)); // Inicializar la semilla del generador de números aleatorios
+    srand(time(0));  // Inicializa el generador de números aleatorios
 
     int n = 3; // Tamaño de la matriz
     int matriz[n][n]; //declara la matriz 
