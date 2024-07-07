@@ -2,30 +2,32 @@
 
 Ejercicios
 
-Imprimir los 4 elementos de la esquina:
+Imprimir los 4 elementos de la esquina: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/elemenEsquinas.c 
 
-Imprimir los elementos pares de la matriz
+Imprimir los elementos pares de la matriz: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/paresMatriz.c
 
-Imprimir los elementos impares de la matriz
+Imprimir los elementos impares de la matriz: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/imparesMatriz.c
 
-Imprimir los elementos que no esten en las esquinas
+Imprimir los elementos que no esten en las esquinas: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/noEsquinasMatriz.c 
 
-Generar la matriz inversa
+Generar la matriz inversa: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/MatrizInversa.c
 
-Generar la matriz transpuesta
+Generar la matriz transpuesta: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/matrizTranspuesta.c
 
-Generar la matriz simetrica
+Generar la matriz simetrica: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/matrizSimetrica.c
 
-Cuantas filas y cuantas columnas tienen una matriz
+Cuantas filas y cuantas columnas tienen una matriz: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/filasColumn.c
 
-Suma de matrices
+Suma de matrices: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/sumaMatriz.c
 
-Resta de matrices
+Resta de matrices: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/restaMatriz.c
 
-Multiplicación de matrices
+Multiplicación de matrices: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/multiplicacionM.c
 
-División de matrices
+División de matrices: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/divisionMatriz.c
 
-Potencia de matrices
+Potencia de matrices: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/potenciaMatriz.c
 
-Baraja de cartas:
+Al sumar matrices el resultado salga en Hexadecimal: https://github.com/AnaPanamito/Taller-Matrices-/blob/main/hexadecimalMatriz.c
+
+Baraja de cartas: FALTAAAAAAAAAA
