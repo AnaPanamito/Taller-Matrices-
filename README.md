@@ -8,7 +8,7 @@ Imprimir los elementos pares de la matriz
 
 Imprimir los elementos impares de la matriz
 
-Imprimir los elelemntos que no esten en las esquinas
+Imprimir los elementos que no esten en las esquinas
 
 Generar la matriz inversa
 
