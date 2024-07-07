@@ -58,4 +58,6 @@ https://github.com/AnaPanamito/Taller-Matrices-/blob/main/potenciaMatriz.c
 
 https://github.com/AnaPanamito/Taller-Matrices-/blob/main/hexadecimalMatriz.c
 
-- Baraja de cartas: FALTAAAAAAAAAA
+- Baraja de cartas:
+
+  https://github.com/AnaPanamito/Taller-Matrices-/blob/main/ordenNaipes.c
