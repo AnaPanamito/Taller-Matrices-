@@ -17,12 +17,12 @@ int main() {
     matriz[2][2] = 9;
 
     // Calcula el número de filas
-    // sizeof(matriz) da el tamaño total de la matriz en bytes
-    // sizeof(matriz[0]) da el tamaño de una fila en bytes
+    // sizeof(matriz) da el tamaño total de la matriz 
+    // sizeof(matriz[0]) da el tamaño de una fila 
     int numFilas = sizeof(matriz) / sizeof(matriz[0]);
     // Calcula el número de columnas
-    // sizeof(matriz[0]) da el tamaño de una fila en bytes 
-    // sizeof(matriz[0][0]) da el tamaño de un elemento en bytes
+    // sizeof(matriz[0]) da el tamaño de una fila 
+    // sizeof(matriz[0][0]) da el tamaño de un elemento 
     int numColumnas = sizeof(matriz[0]) / sizeof(matriz[0][0]);
 
     //imprime los resultados 
